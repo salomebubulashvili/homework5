@@ -57,3 +57,46 @@
     height: 36px;
     border-radius: 50px;
 }
+.footer-bg{
+    background-color: #53535354;
+}
+.footer-main{
+    width: 1306px;
+    height: 223px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}.block1{
+    width:318.05px;
+    height: 221px;
+}
+.block2{
+    width: 136px;
+    height: 223px;
+    
+}
+.block3{
+    width: 199px;
+    height: 223px;
+}
+.block4{
+    width: 107px;
+    height: 127.54px;
+}
+.footer-icons{
+    width: 104px;
+    height: 24px;
+    display: flex;
+    justify-content: space-between;
+}
+.english{
+    width: 80px;
+    height: 45px;
+    background-color: #054A68;
+    text-align: center;
+    
+}
+.language{
+    font-size: 14px;
+    color: #FFFFFF;
+}
