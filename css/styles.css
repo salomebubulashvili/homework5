@@ -43,6 +43,9 @@
     width: 36px;
     height: 36px;
     border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
           
 }
 .instagram{
@@ -50,19 +53,29 @@
     width: 36px;
     height: 36px;
     border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .twitter{
     background-color: #F2F4F7;
     width: 36px;
     height: 36px;
     border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .footer-bg{
     background-color: #53535354;
+    width: 1654px;
+    height: 512px;
 }
 .footer-main{
     width: 1306px;
     height: 223px;
+    padding-top: 108px;
+    padding-bottom: 181px;
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
@@ -88,15 +101,48 @@
     height: 24px;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 .english{
     width: 80px;
     height: 45px;
     background-color: #054A68;
+    display: flex;
+    justify-content: center;
     text-align: center;
+    margin-top: 58.45px;
     
 }
 .language{
     font-size: 14px;
     color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.footer-img{
+    
+    margin-bottom: 32px;
+}
+.block1-p{
+    margin-bottom: 28px;
+}
+.block2-tittle{
+    margin-bottom: 71px;
+}
+.home{
+    margin-bottom: 15px;
+}
+.about{
+    margin-bottom: 15px;
+}
+.services{
+    margin-bottom: 55px;
+}
+.asset-vault{
+    margin-bottom: 15px;
+}
+.emotional-will{
+    margin-bottom: 15px;
 }
